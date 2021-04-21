@@ -1,0 +1,2 @@
+# newRepo
+Git learning process
